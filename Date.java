@@ -1,5 +1,5 @@
 /**
- * I store information (month, day) about a given date.
+ * This class stores a Date in time with months and days.
  */
 public class Date {
     private int month;
