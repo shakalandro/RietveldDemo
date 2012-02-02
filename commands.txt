@@ -1,0 +1,3 @@
+git remote add origin git@github.com:shakalandro/RietveldDemo.git
+
+python upload.py -t "Demo Review" -m "Data Classes" -r "mrk89@cs.washington.edu,mwinst@cs.washington.edu,mloc18@cs.washington.edu,eehunlanlin@gmail.com,timjv@uw.edu,walker7734@gmail.com,finnparnell@gmail.com,tbchamp@cs.washington.edu" --rev origin/master --send_mail
